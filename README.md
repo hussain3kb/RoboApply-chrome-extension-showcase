@@ -1,4 +1,13 @@
-# 🚀 RoboApply — Job Application Automation Chrome Extension
+<h1 align="center">RoboApply — Job Application Automation</h1>
+
+<p align="center"> <strong>RoboApply</strong> is a Chrome extension that automates repetitive job application tasks, helping users save time and apply to multiple jobs efficiently.</p>
+
+<p align="center">
+<a target="_blank" href="https://chromewebstore.google.com/detail/roboapply/omhfaemlhfikakkigibnfjcpaibpenha">
+  <img src="screenshots/chrome-store-icon.png" width="150" />
+</a>
+</p>
+
 
 ## 📌 Overview
 **RoboApply** is a Chrome extension that automates repetitive job application tasks, helping users save time and apply to multiple jobs efficiently.
@@ -50,22 +59,17 @@ Simple popup UI for managing automation and settings.
 
 ---
 
-## 🎥 Demo
-👉 [Watch Demo Video](#)  
-*(Add your YouTube / Loom link here)*
+## Demo Video
+[![Video tutorial](https://img.youtube.com/vi/tkmyu2PpcMs/0.jpg)](https://www.youtube.com/watch?v=tkmyu2PpcMs)
 
 ---
 
 ## 📸 Screenshots
-
-### Extension Popup
-![Popup UI](./screenshots/popup.png)
-
-### Auto-Fill in Action
-![Auto Fill](./screenshots/autofill.png)
-
-### Job Data Extraction
-![Scraping](./screenshots/scraping.png)
+![Chrome Web Store](/screenshots/chrome-store.png)
+![Screenshot1](/screenshots/platforms.png)
+<!-- ![Screenshot2](/screenshots/2.jpg)
+![Screenshot3](/screenshots/3.jpg)
+![Screenshot4](/screenshots/4.jpg) -->
 
 ---
 
